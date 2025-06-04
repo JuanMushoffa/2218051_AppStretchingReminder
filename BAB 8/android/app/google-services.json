@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274267508108",
+    "project_id": "sreminder-af367",
+    "storage_bucket": "sreminder-af367.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274267508108:android:c0840b5e62f85972f51aa9",
+        "android_client_info": {
+          "package_name": "com.stretchreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbInpbDhEENS_nL7iz_fEqhpZoWKdPScs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
